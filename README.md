@@ -1,61 +1,70 @@
-# Nathy-portfolio
-my personal portfolio
-# Personal Website README
+# Getting Started with Create React App
 
-Welcome to the README for my personal website! This document provides an overview of the content and structure of my website, as well as instructions for anyone who wants to clone or contribute to the project.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Table of Contents
+## Available Scripts
 
-1. [Introduction](#introduction)
-2. [Website Structure](#website-structure)
-3. [Technologies Used](#technologies-used)
-4. [Installation and Setup](#installation-and-setup)
-5. [Contributing](#contributing)
+In the project directory, you can run:
 
-## 1. Introduction
+### `npm start`
 
-This personal website is a space where I showcase my portfolio, share my thoughts through a blog, and provide information about myself. It serves as an online presence and a platform to connect with others who share similar interests or seek to learn more about me and my work.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 2. Website Structure
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-The website is organized into several main sections:
+### `npm test`
 
-- **Home:** This is the landing page, providing a brief introduction and links to other sections of the website.
-- **contact:** Here, you can contact me and you can know what i can do you, there are options to contact me like linkedin telegram.
-- **About:** In this section, you can learn more about me, my background, skills, and contact information.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 3. Technologies Used
+### `npm run build`
 
-The website is built using the following technologies:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and layout.
-- **react**: A front-end framework for responsive design.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 4. Installation and Setup
+### `npm run eject`
 
-If you'd like to clone and run this website locally or contribute to it, follow these steps:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/your-personal-website.git
-   ```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. Navigate to the project folder:
-   ```
-   cd your-personal-website
-   ```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-3. Open the `index.html` file in your preferred web browser to view the website locally.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## 5. Contributing
+## Learn More
 
-I welcome contributions to my personal website. If you'd like to contribute, please follow these guidelines:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-1. Fork the repository on GitHub.
-2. Make your changes or additions.
-3. Test your changes thoroughly.
-4. Submit a pull request with a clear description of the changes you've made.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
