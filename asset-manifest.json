@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nathyhac/Nathy-portfolio/static/css/main.d7594f89.css",
+    "main.js": "/Nathyhac/Nathy-portfolio/static/js/main.0acb6461.js",
+    "static/media/about_me-pic.jpg": "/Nathyhac/Nathy-portfolio/static/media/about_me-pic.b4a8a70a8a3584d80f6e.jpg",
+    "static/media/Mine.jpeg": "/Nathyhac/Nathy-portfolio/static/media/Mine.7a876e0bfed7cc9a3b6c.jpeg",
+    "static/media/abstract.webp": "/Nathyhac/Nathy-portfolio/static/media/abstract.6207b3eb8036bf78bce7.webp",
+    "index.html": "/Nathyhac/Nathy-portfolio/index.html",
+    "main.d7594f89.css.map": "/Nathyhac/Nathy-portfolio/static/css/main.d7594f89.css.map",
+    "main.0acb6461.js.map": "/Nathyhac/Nathy-portfolio/static/js/main.0acb6461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7594f89.css",
+    "static/js/main.0acb6461.js"
+  ]
+}
